@@ -1,0 +1,28 @@
+
+gs ck kiri = vis
+gs go atas
+	gs ck kiri & atas = vis
+	gs go bawah
+		gs ck atas & bawah % kiri = vis
+		gs go kanan
+
+gs ck kanan = vis
+gs go bawah
+	gs ck kanan & bawah = vis
+	gs go atas
+		gs ck kanan & bawah % atas = vis
+		gs go kiri
+
+gs ck atas = vis
+gs go kiri
+	gs ck atas & kiri = vis
+	gs go kanan
+		gs ck kanan & atas % kiri = vis
+		gs go bawah
+
+gs ck bawah = vis
+gs go kanan
+	gs ck kanan & bawah = vis
+	gs go kiri
+		gs ck kanan & bawah % kiri = vis
+		gs go atas

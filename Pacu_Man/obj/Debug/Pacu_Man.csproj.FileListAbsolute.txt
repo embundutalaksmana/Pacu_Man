@@ -1,0 +1,157 @@
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man\Pacu_Man\bin\Debug\Pacu_Man.exe
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man\Pacu_Man\bin\Debug\Pacu_Man.exe.config
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man\Pacu_Man\obj\Debug\Easy.g.cs
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man\Pacu_Man\obj\Debug\Hard.g.cs
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man\Pacu_Man\obj\Debug\Level_Menu.g.cs
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man\Pacu_Man\obj\Debug\LoginGame.g.cs
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man\Pacu_Man\obj\Debug\Medium.g.cs
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man\Pacu_Man\obj\Debug\App.g.cs
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man\Pacu_Man\obj\Debug\Pacu_Man_MarkupCompile.cache
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man\Pacu_Man\obj\Debug\Pacu_Man_MarkupCompile.lref
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man\Pacu_Man\obj\Debug\Easy.baml
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man\Pacu_Man\obj\Debug\Hard.baml
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man\Pacu_Man\obj\Debug\Level_Menu.baml
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man\Pacu_Man\obj\Debug\LoginGame.baml
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man\Pacu_Man\obj\Debug\Medium.baml
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man\Pacu_Man\obj\Debug\Pacu_Man.g.resources
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man\Pacu_Man\obj\Debug\Pacu_Man.Properties.Resources.resources
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man\Pacu_Man\obj\Debug\Pacu_Man.csproj.GenerateResource.cache
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man\Pacu_Man\obj\Debug\Pacu_Man.csproj.CoreCompileInputs.cache
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man\Pacu_Man\obj\Debug\Pacu_Man.exe
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man\Pacu_Man\obj\Debug\Pacu_Man.pdb
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man\Pacu_Man\obj\Debug\Pacu_Man.csprojAssemblyReference.cache
+Z:\Pacu_Man\minggu 3\Pacu_Man\Pacu_Man\bin\Debug\Pacu_Man.exe.config
+Z:\Pacu_Man\minggu 3\Pacu_Man\Pacu_Man\bin\Debug\Pacu_Man.exe
+Z:\Pacu_Man\minggu 3\Pacu_Man\Pacu_Man\bin\Debug\Pacu_Man.pdb
+Z:\Pacu_Man\minggu 3\Pacu_Man\Pacu_Man\obj\Debug\Pacu_Man.csprojAssemblyReference.cache
+Z:\Pacu_Man\minggu 3\Pacu_Man\Pacu_Man\obj\Debug\Easy.g.cs
+Z:\Pacu_Man\minggu 3\Pacu_Man\Pacu_Man\obj\Debug\Hard.g.cs
+Z:\Pacu_Man\minggu 3\Pacu_Man\Pacu_Man\obj\Debug\Level_Menu.g.cs
+Z:\Pacu_Man\minggu 3\Pacu_Man\Pacu_Man\obj\Debug\LoginGame.g.cs
+Z:\Pacu_Man\minggu 3\Pacu_Man\Pacu_Man\obj\Debug\Medium.g.cs
+Z:\Pacu_Man\minggu 3\Pacu_Man\Pacu_Man\obj\Debug\App.g.cs
+Z:\Pacu_Man\minggu 3\Pacu_Man\Pacu_Man\obj\Debug\Pacu_Man_MarkupCompile.cache
+Z:\Pacu_Man\minggu 3\Pacu_Man\Pacu_Man\obj\Debug\Pacu_Man_MarkupCompile.lref
+Z:\Pacu_Man\minggu 3\Pacu_Man\Pacu_Man\obj\Debug\Easy.baml
+Z:\Pacu_Man\minggu 3\Pacu_Man\Pacu_Man\obj\Debug\Hard.baml
+Z:\Pacu_Man\minggu 3\Pacu_Man\Pacu_Man\obj\Debug\Level_Menu.baml
+Z:\Pacu_Man\minggu 3\Pacu_Man\Pacu_Man\obj\Debug\LoginGame.baml
+Z:\Pacu_Man\minggu 3\Pacu_Man\Pacu_Man\obj\Debug\Medium.baml
+Z:\Pacu_Man\minggu 3\Pacu_Man\Pacu_Man\obj\Debug\Pacu_Man.g.resources
+Z:\Pacu_Man\minggu 3\Pacu_Man\Pacu_Man\obj\Debug\Pacu_Man.Properties.Resources.resources
+Z:\Pacu_Man\minggu 3\Pacu_Man\Pacu_Man\obj\Debug\Pacu_Man.csproj.GenerateResource.cache
+Z:\Pacu_Man\minggu 3\Pacu_Man\Pacu_Man\obj\Debug\Pacu_Man.csproj.CoreCompileInputs.cache
+Z:\Pacu_Man\minggu 3\Pacu_Man\Pacu_Man\obj\Debug\Pacu_Man.exe
+Z:\Pacu_Man\minggu 3\Pacu_Man\Pacu_Man\obj\Debug\Pacu_Man.pdb
+D:\2TIE KEL7\14 july build\Pacu_Man\Pacu_Man\bin\Debug\Pacu_Man.exe.config
+D:\2TIE KEL7\14 july build\Pacu_Man\Pacu_Man\bin\Debug\Pacu_Man.exe
+D:\2TIE KEL7\14 july build\Pacu_Man\Pacu_Man\bin\Debug\Pacu_Man.pdb
+D:\2TIE KEL7\14 july build\Pacu_Man\Pacu_Man\obj\Debug\Pacu_Man.csprojAssemblyReference.cache
+D:\2TIE KEL7\14 july build\Pacu_Man\Pacu_Man\obj\Debug\Easy.g.cs
+D:\2TIE KEL7\14 july build\Pacu_Man\Pacu_Man\obj\Debug\Hard.g.cs
+D:\2TIE KEL7\14 july build\Pacu_Man\Pacu_Man\obj\Debug\Level_Menu.g.cs
+D:\2TIE KEL7\14 july build\Pacu_Man\Pacu_Man\obj\Debug\LoginGame.g.cs
+D:\2TIE KEL7\14 july build\Pacu_Man\Pacu_Man\obj\Debug\Medium.g.cs
+D:\2TIE KEL7\14 july build\Pacu_Man\Pacu_Man\obj\Debug\App.g.cs
+D:\2TIE KEL7\14 july build\Pacu_Man\Pacu_Man\obj\Debug\Pacu_Man_MarkupCompile.cache
+D:\2TIE KEL7\14 july build\Pacu_Man\Pacu_Man\obj\Debug\Pacu_Man_MarkupCompile.lref
+D:\2TIE KEL7\14 july build\Pacu_Man\Pacu_Man\obj\Debug\Easy.baml
+D:\2TIE KEL7\14 july build\Pacu_Man\Pacu_Man\obj\Debug\Hard.baml
+D:\2TIE KEL7\14 july build\Pacu_Man\Pacu_Man\obj\Debug\Level_Menu.baml
+D:\2TIE KEL7\14 july build\Pacu_Man\Pacu_Man\obj\Debug\LoginGame.baml
+D:\2TIE KEL7\14 july build\Pacu_Man\Pacu_Man\obj\Debug\Medium.baml
+D:\2TIE KEL7\14 july build\Pacu_Man\Pacu_Man\obj\Debug\Pacu_Man.g.resources
+D:\2TIE KEL7\14 july build\Pacu_Man\Pacu_Man\obj\Debug\Pacu_Man.Properties.Resources.resources
+D:\2TIE KEL7\14 july build\Pacu_Man\Pacu_Man\obj\Debug\Pacu_Man.csproj.GenerateResource.cache
+D:\2TIE KEL7\14 july build\Pacu_Man\Pacu_Man\obj\Debug\Pacu_Man.csproj.CoreCompileInputs.cache
+D:\2TIE KEL7\14 july build\Pacu_Man\Pacu_Man\obj\Debug\Pacu_Man.exe
+D:\2TIE KEL7\14 july build\Pacu_Man\Pacu_Man\obj\Debug\Pacu_Man.pdb
+Z:\PCR\BAD_JESSEN\14 july build\Pacu_Man\Pacu_Man\bin\Debug\Pacu_Man.exe.config
+Z:\PCR\BAD_JESSEN\14 july build\Pacu_Man\Pacu_Man\bin\Debug\Pacu_Man.exe
+Z:\PCR\BAD_JESSEN\14 july build\Pacu_Man\Pacu_Man\bin\Debug\Pacu_Man.pdb
+Z:\PCR\BAD_JESSEN\14 july build\Pacu_Man\Pacu_Man\obj\Debug\Pacu_Man.csprojAssemblyReference.cache
+Z:\PCR\BAD_JESSEN\14 july build\Pacu_Man\Pacu_Man\obj\Debug\Easy.g.cs
+Z:\PCR\BAD_JESSEN\14 july build\Pacu_Man\Pacu_Man\obj\Debug\Hard.g.cs
+Z:\PCR\BAD_JESSEN\14 july build\Pacu_Man\Pacu_Man\obj\Debug\Level_Menu.g.cs
+Z:\PCR\BAD_JESSEN\14 july build\Pacu_Man\Pacu_Man\obj\Debug\LoginGame.g.cs
+Z:\PCR\BAD_JESSEN\14 july build\Pacu_Man\Pacu_Man\obj\Debug\Medium.g.cs
+Z:\PCR\BAD_JESSEN\14 july build\Pacu_Man\Pacu_Man\obj\Debug\App.g.cs
+Z:\PCR\BAD_JESSEN\14 july build\Pacu_Man\Pacu_Man\obj\Debug\Pacu_Man_MarkupCompile.cache
+Z:\PCR\BAD_JESSEN\14 july build\Pacu_Man\Pacu_Man\obj\Debug\Pacu_Man_MarkupCompile.lref
+Z:\PCR\BAD_JESSEN\14 july build\Pacu_Man\Pacu_Man\obj\Debug\Easy.baml
+Z:\PCR\BAD_JESSEN\14 july build\Pacu_Man\Pacu_Man\obj\Debug\Hard.baml
+Z:\PCR\BAD_JESSEN\14 july build\Pacu_Man\Pacu_Man\obj\Debug\Level_Menu.baml
+Z:\PCR\BAD_JESSEN\14 july build\Pacu_Man\Pacu_Man\obj\Debug\LoginGame.baml
+Z:\PCR\BAD_JESSEN\14 july build\Pacu_Man\Pacu_Man\obj\Debug\Medium.baml
+Z:\PCR\BAD_JESSEN\14 july build\Pacu_Man\Pacu_Man\obj\Debug\Pacu_Man.g.resources
+Z:\PCR\BAD_JESSEN\14 july build\Pacu_Man\Pacu_Man\obj\Debug\Pacu_Man.Properties.Resources.resources
+Z:\PCR\BAD_JESSEN\14 july build\Pacu_Man\Pacu_Man\obj\Debug\Pacu_Man.csproj.GenerateResource.cache
+Z:\PCR\BAD_JESSEN\14 july build\Pacu_Man\Pacu_Man\obj\Debug\Pacu_Man.csproj.CoreCompileInputs.cache
+Z:\PCR\BAD_JESSEN\14 july build\Pacu_Man\Pacu_Man\obj\Debug\Pacu_Man.exe
+Z:\PCR\BAD_JESSEN\14 july build\Pacu_Man\Pacu_Man\obj\Debug\Pacu_Man.pdb
+Z:\PCR\BAD_JESSEN\14 july build\Pacu_Man\Pacu_Man\bin\Debug\WpfAnimatedGif.dll
+Z:\PCR\BAD_JESSEN\14 july build\Pacu_Man\Pacu_Man\bin\Debug\WpfAnimatedGif.pdb
+Z:\PCR\BAD_JESSEN\14 july build\Pacu_Man\Pacu_Man\bin\Debug\WpfAnimatedGif.xml
+Z:\PCR\BAD_JESSEN\14 july build\Pacu_Man\Pacu_Man\obj\Debug\Pacu_Man.csproj.CopyComplete
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man revisi 3\Pacu_Man\bin\Debug\Pacu_Man.exe.config
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man revisi 3\Pacu_Man\bin\Debug\Pacu_Man.exe
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man revisi 3\Pacu_Man\bin\Debug\Pacu_Man.pdb
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man revisi 3\Pacu_Man\bin\Debug\WpfAnimatedGif.dll
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man revisi 3\Pacu_Man\bin\Debug\WpfAnimatedGif.pdb
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man revisi 3\Pacu_Man\bin\Debug\WpfAnimatedGif.xml
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man revisi 3\Pacu_Man\obj\Debug\Pacu_Man.csprojAssemblyReference.cache
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man revisi 3\Pacu_Man\obj\Debug\Easy.g.cs
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man revisi 3\Pacu_Man\obj\Debug\Hard.g.cs
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man revisi 3\Pacu_Man\obj\Debug\Level_Menu.g.cs
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man revisi 3\Pacu_Man\obj\Debug\LoginGame.g.cs
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man revisi 3\Pacu_Man\obj\Debug\Medium.g.cs
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man revisi 3\Pacu_Man\obj\Debug\App.g.cs
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man revisi 3\Pacu_Man\obj\Debug\Pacu_Man_MarkupCompile.cache
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man revisi 3\Pacu_Man\obj\Debug\Pacu_Man_MarkupCompile.lref
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man revisi 3\Pacu_Man\obj\Debug\Easy.baml
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man revisi 3\Pacu_Man\obj\Debug\Hard.baml
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man revisi 3\Pacu_Man\obj\Debug\Level_Menu.baml
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man revisi 3\Pacu_Man\obj\Debug\LoginGame.baml
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man revisi 3\Pacu_Man\obj\Debug\Medium.baml
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man revisi 3\Pacu_Man\obj\Debug\Pacu_Man.g.resources
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man revisi 3\Pacu_Man\obj\Debug\Pacu_Man.Properties.Resources.resources
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man revisi 3\Pacu_Man\obj\Debug\Pacu_Man.csproj.GenerateResource.cache
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man revisi 3\Pacu_Man\obj\Debug\Pacu_Man.csproj.CoreCompileInputs.cache
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man revisi 3\Pacu_Man\obj\Debug\Pacu_Man.csproj.CopyComplete
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man revisi 3\Pacu_Man\obj\Debug\Pacu_Man.exe
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man revisi 3\Pacu_Man\obj\Debug\Pacu_Man.pdb
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man revisi 3\Pacu_Man\bin\Debug\Pacu_Man.exe.manifest
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man revisi 3\Pacu_Man\bin\Debug\Pacu_Man.application
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man revisi 3\Pacu_Man\obj\Debug\Pacu_Man.exe.manifest
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man revisi 3\Pacu_Man\obj\Debug\Pacu_Man.application
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man Beta Version\Pacu_Man\bin\Debug\Pacu_Man.exe.config
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man Beta Version\Pacu_Man\bin\Debug\Pacu_Man.exe.manifest
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man Beta Version\Pacu_Man\bin\Debug\Pacu_Man.application
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man Beta Version\Pacu_Man\bin\Debug\Pacu_Man.exe
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man Beta Version\Pacu_Man\bin\Debug\Pacu_Man.pdb
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man Beta Version\Pacu_Man\bin\Debug\WpfAnimatedGif.pdb
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man Beta Version\Pacu_Man\bin\Debug\WpfAnimatedGif.xml
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man Beta Version\Pacu_Man\obj\Debug\Pacu_Man.csprojAssemblyReference.cache
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man Beta Version\Pacu_Man\obj\Debug\Easy.g.cs
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man Beta Version\Pacu_Man\obj\Debug\Hard.g.cs
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man Beta Version\Pacu_Man\obj\Debug\Level_Menu.g.cs
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man Beta Version\Pacu_Man\obj\Debug\LoginGame.g.cs
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man Beta Version\Pacu_Man\obj\Debug\Medium.g.cs
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man Beta Version\Pacu_Man\obj\Debug\App.g.cs
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man Beta Version\Pacu_Man\obj\Debug\Pacu_Man_MarkupCompile.cache
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man Beta Version\Pacu_Man\obj\Debug\Pacu_Man_MarkupCompile.lref
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man Beta Version\Pacu_Man\obj\Debug\Easy.baml
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man Beta Version\Pacu_Man\obj\Debug\Hard.baml
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man Beta Version\Pacu_Man\obj\Debug\Level_Menu.baml
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man Beta Version\Pacu_Man\obj\Debug\LoginGame.baml
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man Beta Version\Pacu_Man\obj\Debug\Medium.baml
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man Beta Version\Pacu_Man\obj\Debug\Pacu_Man.g.resources
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man Beta Version\Pacu_Man\obj\Debug\Pacu_Man.Properties.Resources.resources
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man Beta Version\Pacu_Man\obj\Debug\Pacu_Man.csproj.GenerateResource.cache
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man Beta Version\Pacu_Man\obj\Debug\Pacu_Man.csproj.CoreCompileInputs.cache
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man Beta Version\Pacu_Man\obj\Debug\Pacu_Man.exe.manifest
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man Beta Version\Pacu_Man\obj\Debug\Pacu_Man.application
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man Beta Version\Pacu_Man\obj\Debug\Pacu_Man.csproj.CopyComplete
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man Beta Version\Pacu_Man\obj\Debug\Pacu_Man.exe
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man Beta Version\Pacu_Man\obj\Debug\Pacu_Man.pdb
+E:\kuliah\tugas kuliah\smt4\Bengkel Aplikasi Desktop\Pacu_Man Beta Version\Pacu_Man\bin\Debug\WpfAnimatedGif.dll
